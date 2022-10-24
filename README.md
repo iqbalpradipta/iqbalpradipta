@@ -38,7 +38,7 @@ What am using ? </h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iqbalpradipta" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="iqbalpradipta" height="30" width="90" /></a>
+<a href="linkedin.com/in/iqbal-pradipta-9872a9162/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="iqbalpradipta" height="30" width="90" /></a>
 <a href="https://fb.com/iqbalpradipta" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="iqbalpradipta" height="30" width="90" /></a>
 <a href="https://instagram.com/iqbalpradipta01" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="iqbalpradipta01" height="30" width="90" /></a>
 <a href="mailto:iqbalpradipta2@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="iqbalpradipta01" height="30" width="90" /></a>
