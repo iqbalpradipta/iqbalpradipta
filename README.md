@@ -9,7 +9,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 🌱 I’m currently learning Golang, MySQL
 - 🔭 I love exploring new tech stack and making some cool stuf
 - 😀 I like to Design, code, read, and play game in my free time.
-- ⚡ Fun fact: I'm using notepad for the first time coding
+- ⚡ Fun fact: I'm using Microsoft Office for the first time coding
 
 ### <h3 align="left"> 📕 My Project: </h3>
 - [Rozhok](https://github.com/iqbalpradipta/Rozhok-backend)
