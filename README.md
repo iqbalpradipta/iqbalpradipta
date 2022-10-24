@@ -1,4 +1,5 @@
-<h1 >Hellow, I'm Iqbal Pradipta <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1>Hellow, I'm Iqbal Pradipta <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+
 <h3 align="center">I like to learn new things, and it's fun to explore the unknown.</h3>
 
 ![](https://media.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif)
@@ -15,7 +16,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 - [Dashboard Immersive](https://github.com/iqbalpradipta/Backend-Dashboard)
 - [E-Commerce Project](https://github.com/iqbalpradipta/E-commerce)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <h2 align="center">
 What am using ? </h2>
@@ -32,6 +33,8 @@ What am using ? </h2>
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
