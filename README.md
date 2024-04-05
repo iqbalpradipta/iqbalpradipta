@@ -13,7 +13,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 ### <h3 align="left"> 📕 My Project: </h3>
 - [Rozhok](https://github.com/iqbalpradipta/Rozhok-backend)
-- [Dashboard Immersive](https://github.com/iqbalpradipta/Backend-Dashboard)
+- [Circle Apps](https://github.com/iqbalpradipta/Thread-Apps)
 - [E-Commerce Project](https://github.com/iqbalpradipta/E-commerce)
 
 
