@@ -1,6 +1,6 @@
 <h1>Hellow, I'm Iqbal Pradipta <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<h3 align="center">BACKEND ENGINEER || GOLANG ENTHUSIAST.</h3>
+<h3 align="center">FULLSTACK DEVELOPER</h3>
 
 ![](https://media.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif)
 
