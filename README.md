@@ -1,4 +1,4 @@
-<h1>Hellow, I'm Iqbal Pradipta <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+M>Hellow, I'm Iqbal Pradipta <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <h3 align="center">FULLSTACK DEVELOPER</h3>
 
@@ -6,15 +6,15 @@
 
 For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
 
-- 🌱 I’m currently learning Golang, MySQL
+- 🌱 I’m currently learning as Fullstack Developee 
 - 🔭 I love exploring new tech stack and making some cool stuf
 - 😀 I like to Design, code, read, and play game in my free time.
 - ⚡ Fun fact: I'm using Microsoft Office for the first time coding
 
 ### <h3 align="left"> 📕 My Project: </h3>
-- [Rozhok](https://github.com/iqbalpradipta/Rozhok-backend)
+- [NoYo](https://github.com/iqbalpradipta/NoYo)
 - [Circle Apps](https://github.com/iqbalpradipta/Thread-Apps)
-- [E-Commerce Project](https://github.com/iqbalpradipta/E-commerce)
+- [BalPay](https://github.com/iqbalpradipta/BalPay)
 
 
 
